@@ -1,0 +1,1429 @@
+﻿question,label
+오늘 학식 뭐야?,B-DATE O O
+오늘 점심 학식 뭐야?,B-DATE TIME O O
+오늘 학식 메뉴,B-DATE O O
+어제 학식 메뉴,B-DATE O O
+내일 학식 메뉴,B-DATE O O
+아침 학식 뭐야,TIME O O
+점심 학식 뭐야,TIME O O
+저녁 학식 뭐야,TIME O O
+오늘 학식 뭐예요,B-DATE O O
+오늘 점심 학식 뭐예요,B-DATE TIME O O
+어제 점심 학식 뭐예요,B-DATE TIME O O
+오늘 저녁 학식 뭐야?,B-DATE TIME O O
+오늘 아침 학식 뭐야?,B-DATE TIME O O
+어제 저녁 학식 뭐야?,B-DATE TIME O O
+어제 점심 학식 뭐야?,B-DATE TIME O O
+어제 아침 학식 뭐야?,B-DATE TIME O O
+학식 뭐야?,O O
+내일 아침 학식 뭐야?,B-DATE TIME O O
+내일 점심 학식 뭐야?,B-DATE TIME O O
+내일 저녁 학식 뭐야?,B-DATE TIME O O
+오늘 점심 학식 알려주세요,B-DATE TIME O O
+오늘 아침 학식 알려주세요,B-DATE TIME O O
+오늘 저녁 학식 알려주세요,B-DATE TIME O O
+학식 말해줄래,O O
+학식,O
+내일 점심 학식 알려주세요,B-DATE TIME O O
+내일 아침 학식 알려주세요,B-DATE TIME O O
+내일 저녁 학식 알려주세요,B-DATE TIME O O
+어제 점심 학식 알려주세요,B-DATE TIME O O
+어제 저녁 학식 알려주세요,B-DATE TIME O O
+어제 아침 학식 알려주세요,B-DATE TIME O O
+학식이 궁금합니다,O O
+점심 학식 궁금합니다,TIME O O
+저녁 학식 궁금합니다,TIME O O
+아침 학식 궁금합니다,TIME O O
+오늘 학식 궁금합니다,B-DATE O O
+오늘 점심 학식 궁금합니다,B-DATE TIME O O
+내일 점심 학식 궁금합니다,B-DATE TIME O O
+점심 오늘 학식 궁급합니다,TIME B-DATE O O
+점심 내일 학식 궁금합니다,TIME B-DATE O O
+저녁 학식 궁급합니다,TIME O O
+학식 궁금합니다,O O
+학식 알려줘,O O
+오늘 학식 알려줘,B-DATE O O
+어제 학식 알려줘,B-DATE O O
+내일 학식 알려줘,B-DATE O O
+오늘 학식 알려줄 수 있니,B-DATE O O O O
+내일 학식 알려줄 수 있니,B-DATE O O O O
+어제 학식 알려줄 수 있니,B-DATE O O O O
+오늘 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+오늘 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+오늘 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+어제 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+어제 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+어제 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+내일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+내일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+내일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+내일 점심 뭐야,B-DATE TIME O
+오늘 점심 뭐야,B-DATE TIME O
+어제 점심 뭐야,B-DATE TIME O
+내일 아침 뭐야,B-DATE TIME O
+오늘 아침 뭐야,B-DATE TIME O
+어제 아침 뭐야,B-DATE TIME O
+내일 저녁 뭐야,B-DATE TIME O
+오늘 저녁 뭐야,B-DATE TIME O
+어제 저녁 뭐야,B-DATE TIME O
+월요일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+화요일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+수요일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+목요일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+금요일 아침 학식 알려줄 수 있니,B-DATE TIME O O O O
+월요일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+화요일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+수요일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+목요일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+금요일 점심 학식 알려줄 수 있니,B-DATE TIME O O O O
+월요일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+화요일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+수요일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+목요일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+금요일 저녁 학식 알려줄 수 있니,B-DATE TIME O O O O
+월요일 점심 뭐야,B-DATE TIME O
+월요일 아침 뭐야,B-DATE TIME O
+월요일 저녁 뭐야,B-DATE TIME O
+화요일 점심 뭐야,B-DATE TIME O
+화요일 아침 뭐야,B-DATE TIME O
+화요일 저녁 뭐야,B-DATE TIME O
+수요일 점심 뭐야,B-DATE TIME O
+수요일 아침 뭐야,B-DATE TIME O
+수요일 저녁 뭐야,B-DATE TIME O
+목요일 점심 뭐야,B-DATE TIME O
+목요일 아침 뭐야,B-DATE TIME O
+목요일 저녁 뭐야,B-DATE TIME O
+금요일 점심 뭐야,B-DATE TIME O
+금요일 아침 뭐야,B-DATE TIME O
+금요일 저녁 뭐야,B-DATE TIME O
+월요일 학식 궁금합니다,B-DATE O O
+화요일 학식 궁금합니다,B-DATE O O
+수요일 학식 궁금합니다,B-DATE O O
+목요일 학식 궁금합니다,B-DATE O O
+금요일 학식 궁금합니다,B-DATE O O
+월요일 아침 학식 궁금합니다,B-DATE TIME O O
+화요일 아침 학식 궁금합니다,B-DATE TIME O O
+수요일 아침 학식 궁금합니다,B-DATE TIME O O
+목요일 아침 학식 궁금합니다,B-DATE TIME O O
+금요일 아침 학식 궁금합니다,B-DATE TIME O O
+월요일 점심 학식 궁금합니다,B-DATE TIME O O
+화요일 점심 학식 궁금합니다,B-DATE TIME O O
+수요일 점심 학식 궁금합니다,B-DATE TIME O O
+목요일 점심 학식 궁금합니다,B-DATE TIME O O
+금요일 점심 학식 궁금합니다,B-DATE TIME O O
+월요일 저녁 학식 궁금합니다,B-DATE TIME O O
+화요일 저녁 학식 궁금합니다,B-DATE TIME O O
+수요일 저녁 학식 궁금합니다,B-DATE TIME O O
+목요일 저녁 학식 궁금합니다,B-DATE TIME O O
+금요일 저녁 학식 궁금합니다,B-DATE TIME O O
+어제 아침 학식 뭐였어,B-DATE TIME O O
+어제 점심 학식 뭐였어,B-DATE TIME O O
+어제 저녁 학식 뭐였어,B-DATE TIME O O
+어제 아침 학식 뭐였니,B-DATE TIME O O
+어제 점심 학식 뭐였니,B-DATE TIME O O
+어제 저녁 학식 뭐였니,B-DATE TIME O O
+어제 아침 학식 뭐였나요,B-DATE TIME O O
+어제 점심 학식 뭐였나요,B-DATE TIME O O
+어제 저녁 학식 뭐였나요,B-DATE TIME O O
+오늘 아침 학식 메뉴,B-DATE TIME O O
+오늘 점심 학식 메뉴,B-DATE TIME O O
+오늘 저녁 학식 메뉴,B-DATE TIME O O
+어제 아침 학식 메뉴,B-DATE TIME O O
+어제 점심 학식 메뉴,B-DATE TIME O O
+어제 저녁 학식 메뉴,B-DATE TIME O O
+내일 아침 학식 메뉴,B-DATE TIME O O
+내일 점심 학식 메뉴,B-DATE TIME O O
+내일 저녁 학식 메뉴,B-DATE TIME O O
+오늘 뭐나와,B-DATE O
+오늘 뭐 나와,B-DATE O O
+내일 뭐 나와,B-DATE O O
+오늘 뭐 나올까,B-DATE O O
+오늘 뭐 나오니,B-DATE O O
+내일 뭐 나오니,B-DATE O O
+어제 뭐 나왔어,B-DATE O O
+오늘 아침 뭐 나올까,B-DATE TIME O O
+오늘 점심 뭐 나올까,B-DATE TIME O O
+오늘 저녁 뭐 나올까,B-DATE TIME O O
+오늘 아침 뭐 나오니,B-DATE TIME O O
+오늘 점심 뭐 나오니,B-DATE TIME O O
+오늘 저녁 뭐 나오니,B-DATE TIME O O
+내일 아침 뭐 나오니,B-DATE TIME O O
+내일 점심 뭐 나오니,B-DATE TIME O O
+내일 저녁 뭐 나오니,B-DATE TIME O O
+학식 말해줘,O O
+오늘 학식 말해줘,B-DATE O O
+내일 학식 말해줘,B-DATE O O
+어제 학식 말해줘,B-DATE O O
+오늘 아침 학식 말해줘,B-DATE TIME O O
+오늘 점심 학식 말해줘,B-DATE TIME O O
+오늘 저녁 학식 말해줘,B-DATE TIME O O
+어제 아침 학식 말해줘,B-DATE TIME O O
+어제 점심 학식 말해줘,B-DATE TIME O O
+어제 저녁 학식 말해줘,B-DATE TIME O O
+내일 아침 학식 말해줘,B-DATE TIME O O
+내일 점심 학식 말해줘,B-DATE TIME O O
+내일 저녁 학식 말해줘,B-DATE TIME O O
+오늘 학식은?,B-DATE O
+내일 학식은?,B-DATE O
+오늘 아침 학식은?,B-DATE TIME O
+오늘 점심 학식은?,B-DATE TIME O
+오늘 저녁 학식은?,B-DATE TIME O
+내일 아침 학식은?,B-DATE TIME O
+내일 점심 학식은?,B-DATE TIME O
+내일 저녁 학식은?,B-DATE TIME O
+월요일 학식,B-DATE O
+화요일 학식,B-DATE O
+수요일 학식,B-DATE O
+목요일 학식,B-DATE O
+금요일 학식,B-DATE O
+월요일 아침 학식,B-DATE TIME O
+화요일 아침 학식,B-DATE TIME O
+수요일 아침 학식,B-DATE TIME O
+목요일 아침 학식,B-DATE TIME O
+금요일 아침 학식,B-DATE TIME O
+월요일 점심 학식,B-DATE TIME O
+화요일 점심 학식,B-DATE TIME O
+수요일 점심 학식,B-DATE TIME O
+목요일 점심 학식,B-DATE TIME O
+금요일 점심 학식,B-DATE TIME O
+월요일 저녁 학식,B-DATE TIME O
+화요일 저녁 학식,B-DATE TIME O
+수요일 저녁 학식,B-DATE TIME O
+목요일 저녁 학식,B-DATE TIME O
+금요일 저녁 학식,B-DATE TIME O
+월요일 메뉴,B-DATE O
+화요일 메뉴,B-DATE O
+수요일 메뉴,B-DATE O
+목요일 메뉴,B-DATE O
+금요일 메뉴,B-DATE O
+월요일 아침 메뉴,B-DATE TIME O
+화요일 아침 메뉴,B-DATE TIME O
+수요일 아침 메뉴,B-DATE TIME O
+목요일 아침 메뉴,B-DATE TIME O
+금요일 아침 메뉴,B-DATE TIME O
+월요일 점심 메뉴,B-DATE TIME O
+화요일 점심 메뉴,B-DATE TIME O
+수요일 점심 메뉴,B-DATE TIME O
+목요일 점심 메뉴,B-DATE TIME O
+금요일 점심 메뉴,B-DATE TIME O
+월요일 저녁 메뉴,B-DATE TIME O
+화요일 저녁 메뉴,B-DATE TIME O
+수요일 저녁 메뉴,B-DATE TIME O
+목요일 저녁 메뉴,B-DATE TIME O
+금요일 저녁 메뉴,B-DATE TIME O
+어제 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+어제 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+어제 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+오늘 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+오늘 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+오늘 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+내일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+내일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+내일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+월요일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+화요일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+수요일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+목요일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+금요일 아침 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+월요일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+화요일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+수요일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+목요일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+금요일 점심 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+월요일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+화요일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+수요일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+목요일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+금요일 저녁 학식 알려줄 수 있을까?,B-DATE TIME O O O O
+내일 학식 뭐니,B-DATE O O
+오늘 학식 뭐니,B-DATE O O
+어제 학식 뭐니,B-DATE O O
+오늘 학식 먹고싶어,B-DATE O O
+학식이 먹고싶구나,O O
+오늘 학식 정보가 필요해,B-DATE O O O
+어제 아침 학식 정보 알고싶어,B-DATE TIME O O O
+어제 점심 학식 정보 알고싶어,B-DATE TIME O O O
+어제 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+내일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+내일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+내일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+오늘 아침 학식 정보 알고싶어,B-DATE TIME O O O
+오늘 점심 학식 정보 알고싶어,B-DATE TIME O O O
+오늘 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+월요일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+화요일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+수요일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+목요일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+금요일 아침 학식 정보 알고싶어,B-DATE TIME O O O
+월요일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+화요일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+수요일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+목요일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+금요일 점심 학식 정보 알고싶어,B-DATE TIME O O O
+월요일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+화요일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+수요일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+목요일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+금요일 저녁 학식 정보 알고싶어,B-DATE TIME O O O
+오늘 아침 학식 뭐예요,B-DATE TIME O O
+오늘 저녁 학식 뭐예요,B-DATE TIME O O
+월요일 아침 학식 뭐예요,B-DATE TIME O O
+화요일 아침 학식 뭐예요,B-DATE TIME O O
+수요일 아침 학식 뭐예요,B-DATE TIME O O
+목요일 아침 학식 뭐예요,B-DATE TIME O O
+금요일 아침 학식 뭐예요,B-DATE TIME O O
+월요일 점심 학식 뭐예요,B-DATE TIME O O
+화요일 점심 학식 뭐예요,B-DATE TIME O O
+수요일 점심 학식 뭐예요,B-DATE TIME O O
+목요일 점심 학식 뭐예요,B-DATE TIME O O
+금요일 점심 학식 뭐예요,B-DATE TIME O O
+월요일 저녁 학식 뭐예요,B-DATE TIME O O
+화요일 저녁 학식 뭐예요,B-DATE TIME O O
+수요일 저녁 학식 뭐예요,B-DATE TIME O O
+목요일 저녁 학식 뭐예요,B-DATE TIME O O
+금요일 저녁 학식 뭐예요,B-DATE TIME O O
+오늘 학식,B-DATE O
+어제 학식,B-DATE O
+내일 학식,B-DATE O
+학식 뭐야,O O
+오늘의 학식,B-DATE O
+어제의 학식,B-DATE O
+내일의 학식,B-DATE O
+오늘 메뉴,B-DATE O
+어제 메뉴,B-DATE O
+내일 메뉴,B-DATE O
+오늘의 메뉴,B-DATE O
+어제의 메뉴,B-DATE O
+내일의 메뉴,B-DATE O
+밥,O
+밥 말해줘,O O
+오늘 밥 뭐야,B-DATE O O
+밥 뭐야,O O
+내일 밥 뭐야,B-DATE O O
+오늘 밥 뭐야?,B-DATE O O
+밥 뭐야?,O O
+내일 밥 뭐야?,B-DATE O O
+오늘 밥은?,B-DATE O
+내일 밥은?,B-DATE O
+오늘 아침 밥은?,B-DATE TIME O
+오늘 점심 밥은?,B-DATE TIME O
+오늘 저녁 밥은?,B-DATE TIME O
+내일 아침 밥은?,B-DATE TIME O
+내일 점심 밥은?,B-DATE TIME O
+내일 저녁 밥은?,B-DATE TIME O
+오늘 학식이요,B-DATE O
+어제 학식이요,B-DATE O
+내일 학식이요,B-DATE O
+어제 밥 뭐였어,B-DATE O O
+어제 학식 뭐였어,B-DATE O O
+어제 밥 뭐였니,B-DATE O O
+아침 학식,TIME O
+점심 학식,TIME O
+저녁 학식,TIME O
+학식 뭐냐,O O
+아침 학식 뭐냐,TIME O O
+점심 학식 뭐냐,TIME O O
+저녁 학식 뭐냐,TIME O O
+오늘 아침 학식 뭐냐,B-DATE TIME O O
+오늘 점심 학식 뭐냐,B-DATE TIME O O
+오늘 저녁 학식 뭐냐,B-DATE TIME O O
+어제 아침 학식 뭐냐,B-DATE TIME O O
+어제 점심 학식 뭐냐,B-DATE TIME O O
+어제 저녁 학식 뭐냐,B-DATE TIME O O
+어제 아침 학식 뭐였냐,B-DATE TIME O O
+어제 점심 학식 뭐였냐,B-DATE TIME O O
+어제 저녁 학식 뭐였냐,B-DATE TIME O O
+내일 아침 학식 뭐냐,B-DATE TIME O O
+내일 점심 학식 뭐냐,B-DATE TIME O O
+내일 저녁 학식 뭐냐,B-DATE TIME O O
+월요일 아침 학식 뭐냐,B-DATE TIME O O
+화요일 아침 학식 뭐냐,B-DATE TIME O O
+수요일 아침 학식 뭐냐,B-DATE TIME O O
+목요일 아침 학식 뭐냐,B-DATE TIME O O
+금요일 아침 학식 뭐냐,B-DATE TIME O O
+월요일 점심 학식 뭐냐,B-DATE TIME O O
+화요일 점심 학식 뭐냐,B-DATE TIME O O
+수요일 점심 학식 뭐냐,B-DATE TIME O O
+목요일 점심 학식 뭐냐,B-DATE TIME O O
+금요일 점심 학식 뭐냐,B-DATE TIME O O
+월요일 저녁 학식 뭐냐,B-DATE TIME O O
+화요일 저녁 학식 뭐냐,B-DATE TIME O O
+수요일 저녁 학식 뭐냐,B-DATE TIME O O
+목요일 저녁 학식 뭐냐,B-DATE TIME O O
+금요일 저녁 학식 뭐냐,B-DATE TIME O O
+월요일 아침 학식 뭘까,B-DATE TIME O O
+화요일 아침 학식 뭘까,B-DATE TIME O O
+수요일 아침 학식 뭘까,B-DATE TIME O O
+목요일 아침 학식 뭘까,B-DATE TIME O O
+금요일 아침 학식 뭘까,B-DATE TIME O O
+월요일 점심 학식 뭘까,B-DATE TIME O O
+화요일 점심 학식 뭘까,B-DATE TIME O O
+수요일 점심 학식 뭘까,B-DATE TIME O O
+목요일 점심 학식 뭘까,B-DATE TIME O O
+금요일 점심 학식 뭘까,B-DATE TIME O O
+월요일 저녁 학식 뭘까,B-DATE TIME O O
+화요일 저녁 학식 뭘까,B-DATE TIME O O
+수요일 저녁 학식 뭘까,B-DATE TIME O O
+목요일 저녁 학식 뭘까,B-DATE TIME O O
+금요일 저녁 학식 뭘까,B-DATE TIME O O
+월요일 아침 학식 뭘까?,B-DATE TIME O O
+화요일 아침 학식 뭘까?,B-DATE TIME O O
+수요일 아침 학식 뭘까?,B-DATE TIME O O
+목요일 아침 학식 뭘까?,B-DATE TIME O O
+금요일 아침 학식 뭘까?,B-DATE TIME O O
+월요일 점심 학식 뭘까?,B-DATE TIME O O
+화요일 점심 학식 뭘까?,B-DATE TIME O O
+수요일 점심 학식 뭘까?,B-DATE TIME O O
+목요일 점심 학식 뭘까?,B-DATE TIME O O
+금요일 점심 학식 뭘까?,B-DATE TIME O O
+월요일 저녁 학식 뭘까?,B-DATE TIME O O
+화요일 저녁 학식 뭘까?,B-DATE TIME O O
+수요일 저녁 학식 뭘까?,B-DATE TIME O O
+목요일 저녁 학식 뭘까?,B-DATE TIME O O
+금요일 저녁 학식 뭘까?,B-DATE TIME O O
+월요일 아침 학식 뭐야?,B-DATE TIME O O
+화요일 아침 학식 뭐야?,B-DATE TIME O O
+수요일 아침 학식 뭐야?,B-DATE TIME O O
+목요일 아침 학식 뭐야?,B-DATE TIME O O
+금요일 아침 학식 뭐야?,B-DATE TIME O O
+월요일 점심 학식 뭐야?,B-DATE TIME O O
+화요일 점심 학식 뭐야?,B-DATE TIME O O
+수요일 점심 학식 뭐야?,B-DATE TIME O O
+목요일 점심 학식 뭐야?,B-DATE TIME O O
+금요일 점심 학식 뭐야?,B-DATE TIME O O
+월요일 저녁 학식 뭐야?,B-DATE TIME O O
+화요일 저녁 학식 뭐야?,B-DATE TIME O O
+수요일 저녁 학식 뭐야?,B-DATE TIME O O
+목요일 저녁 학식 뭐야?,B-DATE TIME O O
+금요일 저녁 학식 뭐야?,B-DATE TIME O O
+월요일 아침 학식이요,B-DATE TIME O
+화요일 아침 학식이요,B-DATE TIME O
+수요일 아침 학식이요,B-DATE TIME O
+목요일 아침 학식이요,B-DATE TIME O
+금요일 아침 학식이요,B-DATE TIME O
+월요일 점심 학식이요,B-DATE TIME O
+화요일 점심 학식이요,B-DATE TIME O
+수요일 점심 학식이요,B-DATE TIME O
+목요일 점심 학식이요,B-DATE TIME O
+금요일 점심 학식이요,B-DATE TIME O
+월요일 저녁 학식이요,B-DATE TIME O
+화요일 저녁 학식이요,B-DATE TIME O
+수요일 저녁 학식이요,B-DATE TIME O
+목요일 저녁 학식이요,B-DATE TIME O
+금요일 저녁 학식이요,B-DATE TIME O
+월요일 아침 학식 메뉴,B-DATE TIME O O
+화요일 아침 학식 메뉴,B-DATE TIME O O
+수요일 아침 학식 메뉴,B-DATE TIME O O
+목요일 아침 학식 메뉴,B-DATE TIME O O
+금요일 아침 학식 메뉴,B-DATE TIME O O
+월요일 점심 학식 메뉴,B-DATE TIME O O
+화요일 점심 학식 메뉴,B-DATE TIME O O
+수요일 점심 학식 메뉴,B-DATE TIME O O
+목요일 점심 학식 메뉴,B-DATE TIME O O
+금요일 점심 학식 메뉴,B-DATE TIME O O
+월요일 저녁 학식 메뉴,B-DATE TIME O O
+화요일 저녁 학식 메뉴,B-DATE TIME O O
+수요일 저녁 학식 메뉴,B-DATE TIME O O
+목요일 저녁 학식 메뉴,B-DATE TIME O O
+금요일 저녁 학식 메뉴,B-DATE TIME O O
+월요일 식단,B-DATE O
+화요일 식단,B-DATE O
+수요일 식단,B-DATE O
+목요일 식단,B-DATE O
+금요일 식단,B-DATE O
+월요일 아침 식단,B-DATE TIME O
+화요일 아침 식단,B-DATE TIME O
+수요일 아침 식단,B-DATE TIME O
+목요일 아침 식단,B-DATE TIME O
+금요일 아침 식단,B-DATE TIME O
+월요일 점심 식단,B-DATE TIME O
+화요일 점심 식단,B-DATE TIME O
+수요일 점심 식단,B-DATE TIME O
+목요일 점심 식단,B-DATE TIME O
+금요일 점심 식단,B-DATE TIME O
+월요일 저녁 식단,B-DATE TIME O
+화요일 저녁 식단,B-DATE TIME O
+수요일 저녁 식단,B-DATE TIME O
+목요일 저녁 식단,B-DATE TIME O
+금요일 저녁 식단,B-DATE TIME O
+월요일 밥,B-DATE O
+화요일 밥,B-DATE O
+수요일 밥,B-DATE O
+목요일 밥,B-DATE O
+금요일 밥,B-DATE O
+월요일 아침 밥,B-DATE TIME O
+화요일 아침 밥,B-DATE TIME O
+수요일 아침 밥,B-DATE TIME O
+목요일 아침 밥,B-DATE TIME O
+금요일 아침 밥,B-DATE TIME O
+월요일 점심 밥,B-DATE TIME O
+화요일 점심 밥,B-DATE TIME O
+수요일 점심 밥,B-DATE TIME O
+목요일 점심 밥,B-DATE TIME O
+금요일 점심 밥,B-DATE TIME O
+월요일 저녁 밥,B-DATE TIME O
+화요일 저녁 밥,B-DATE TIME O
+수요일 저녁 밥,B-DATE TIME O
+목요일 저녁 밥,B-DATE TIME O
+금요일 저녁 밥,B-DATE TIME O
+월요일 밥 뭐야,B-DATE O O
+화요일 밥 뭐야,B-DATE O O
+수요일 밥 뭐야,B-DATE O O
+목요일 밥 뭐야,B-DATE O O
+금요일 밥 뭐야,B-DATE O O
+월요일 아침 밥 뭐야,B-DATE TIME O O
+화요일 아침 밥 뭐야,B-DATE TIME O O
+수요일 아침 밥 뭐야,B-DATE TIME O O
+목요일 아침 밥 뭐야,B-DATE TIME O O
+금요일 아침 밥 뭐야,B-DATE TIME O O
+월요일 점심 밥 뭐야,B-DATE TIME O O
+화요일 점심 밥 뭐야,B-DATE TIME O O
+수요일 점심 밥 뭐야,B-DATE TIME O O
+목요일 점심 밥 뭐야,B-DATE TIME O O
+금요일 점심 밥 뭐야,B-DATE TIME O O
+월요일 저녁 밥 뭐야,B-DATE TIME O O
+화요일 저녁 밥 뭐야,B-DATE TIME O O
+수요일 저녁 밥 뭐야,B-DATE TIME O O
+목요일 저녁 밥 뭐야,B-DATE TIME O O
+금요일 저녁 밥 뭐야,B-DATE TIME O O
+월요일 밥 뭐야?,B-DATE O O
+화요일 밥 뭐야?,B-DATE O O
+수요일 밥 뭐야?,B-DATE O O
+목요일 밥 뭐야?,B-DATE O O
+금요일 밥 뭐야?,B-DATE O O
+월요일 아침 밥 뭐야?,B-DATE TIME O O
+화요일 아침 밥 뭐야?,B-DATE TIME O O
+수요일 아침 밥 뭐야?,B-DATE TIME O O
+목요일 아침 밥 뭐야?,B-DATE TIME O O
+금요일 아침 밥 뭐야?,B-DATE TIME O O
+월요일 점심 밥 뭐야?,B-DATE TIME O O
+화요일 점심 밥 뭐야?,B-DATE TIME O O
+수요일 점심 밥 뭐야?,B-DATE TIME O O
+목요일 점심 밥 뭐야?,B-DATE TIME O O
+금요일 점심 밥 뭐야?,B-DATE TIME O O
+월요일 저녁 밥 뭐야?,B-DATE TIME O O
+화요일 저녁 밥 뭐야?,B-DATE TIME O O
+수요일 저녁 밥 뭐야?,B-DATE TIME O O
+목요일 저녁 밥 뭐야?,B-DATE TIME O O
+금요일 저녁 밥 뭐야?,B-DATE TIME O O
+월요일 밥 뭐예요,B-DATE O O
+화요일 밥 뭐예요,B-DATE O O
+수요일 밥 뭐예요,B-DATE O O
+목요일 밥 뭐예요,B-DATE O O
+금요일 밥 뭐예요,B-DATE O O
+월요일 아침 밥 뭐예요,B-DATE TIME O O
+화요일 아침 밥 뭐예요,B-DATE TIME O O
+수요일 아침 밥 뭐예요,B-DATE TIME O O
+목요일 아침 밥 뭐예요,B-DATE TIME O O
+금요일 아침 밥 뭐예요,B-DATE TIME O O
+월요일 점심 밥 뭐예요,B-DATE TIME O O
+화요일 점심 밥 뭐예요,B-DATE TIME O O
+수요일 점심 밥 뭐예요,B-DATE TIME O O
+목요일 점심 밥 뭐예요,B-DATE TIME O O
+금요일 점심 밥 뭐예요,B-DATE TIME O O
+월요일 저녁 밥 뭐예요,B-DATE TIME O O
+화요일 저녁 밥 뭐예요,B-DATE TIME O O
+수요일 저녁 밥 뭐예요,B-DATE TIME O O
+목요일 저녁 밥 뭐예요,B-DATE TIME O O
+금요일 저녁 밥 뭐예요,B-DATE TIME O O
+학식 말해주세요,O O
+오늘 학식 말해주세요,B-DATE O O
+내일 학식 말해주세요,B-DATE O O
+어제 학식 말해주세요,B-DATE O O
+오늘 아침 학식 말해주세요,B-DATE TIME O O
+오늘 점심 학식 말해주세요,B-DATE TIME O O
+오늘 저녁 학식 말해주세요,B-DATE TIME O O
+어제 아침 학식 말해주세요,B-DATE TIME O O
+어제 점심 학식 말해주세요,B-DATE TIME O O
+어제 저녁 학식 말해주세요,B-DATE TIME O O
+내일 아침 학식 말해주세요,B-DATE TIME O O
+내일 점심 학식 말해주세요,B-DATE TIME O O
+내일 저녁 학식 말해주세요,B-DATE TIME O O
+학식 뭔가요,O O
+오늘 학식 뭔가요,B-DATE O O
+내일 학식 뭔가요,B-DATE O O
+어제 학식 뭔가요,B-DATE O O
+오늘 아침 학식 뭔가요,B-DATE TIME O O
+오늘 점심 학식 뭔가요,B-DATE TIME O O
+오늘 저녁 학식 뭔가요,B-DATE TIME O O
+어제 아침 학식 뭔가요,B-DATE TIME O O
+어제 점심 학식 뭔가요,B-DATE TIME O O
+어제 저녁 학식 뭔가요,B-DATE TIME O O
+내일 아침 학식 뭔가요,B-DATE TIME O O
+내일 점심 학식 뭔가요,B-DATE TIME O O
+내일 저녁 학식 뭔가요,B-DATE TIME O O
+아침 메뉴,TIME O
+점심 메뉴,TIME O
+저녁 메뉴,TIME O
+아침 밥,TIME O
+점심 밥,TIME O
+저녁 밥,TIME O
+아침 식단,TIME O
+점심 식단,TIME O
+저녁 식단,TIME O
+월요일 점심 보여줘,B-DATE TIME O
+월요일 아침 보여줘,B-DATE TIME O
+월요일 저녁 보여줘,B-DATE TIME O
+화요일 점심 보여줘,B-DATE TIME O
+화요일 아침 보여줘,B-DATE TIME O
+화요일 저녁 보여줘,B-DATE TIME O
+수요일 점심 보여줘,B-DATE TIME O
+수요일 아침 보여줘,B-DATE TIME O
+수요일 저녁 보여줘,B-DATE TIME O
+목요일 점심 보여줘,B-DATE TIME O
+목요일 아침 보여줘,B-DATE TIME O
+목요일 저녁 보여줘,B-DATE TIME O
+금요일 점심 보여줘,B-DATE TIME O
+금요일 아침 보여줘,B-DATE TIME O
+금요일 저녁 보여줘,B-DATE TIME O
+월요일 점심 말해줘,B-DATE TIME O
+월요일 아침 말해줘,B-DATE TIME O
+월요일 저녁 말해줘,B-DATE TIME O
+화요일 점심 말해줘,B-DATE TIME O
+화요일 아침 말해줘,B-DATE TIME O
+화요일 저녁 말해줘,B-DATE TIME O
+수요일 점심 말해줘,B-DATE TIME O
+수요일 아침 말해줘,B-DATE TIME O
+수요일 저녁 말해줘,B-DATE TIME O
+목요일 점심 말해줘,B-DATE TIME O
+목요일 아침 말해줘,B-DATE TIME O
+목요일 저녁 말해줘,B-DATE TIME O
+금요일 점심 말해줘,B-DATE TIME O
+금요일 아침 말해줘,B-DATE TIME O
+금요일 저녁 말해줘,B-DATE TIME O
+월요일 점심 알려줘,B-DATE TIME O
+월요일 아침 알려줘,B-DATE TIME O
+월요일 저녁 알려줘,B-DATE TIME O
+화요일 점심 알려줘,B-DATE TIME O
+화요일 아침 알려줘,B-DATE TIME O
+화요일 저녁 알려줘,B-DATE TIME O
+수요일 점심 알려줘,B-DATE TIME O
+수요일 아침 알려줘,B-DATE TIME O
+수요일 저녁 알려줘,B-DATE TIME O
+목요일 점심 알려줘,B-DATE TIME O
+목요일 아침 알려줘,B-DATE TIME O
+목요일 저녁 알려줘,B-DATE TIME O
+금요일 점심 알려줘,B-DATE TIME O
+금요일 아침 알려줘,B-DATE TIME O
+금요일 저녁 알려줘,B-DATE TIME O
+학식 보여줘,O O
+오늘 학식 보여줘,B-DATE O O
+내일 학식 보여줘,B-DATE O O
+어제 학식 보여줘,B-DATE O O
+오늘 아침 학식 보여줘,B-DATE TIME O O
+오늘 점심 학식 보여줘,B-DATE TIME O O
+오늘 저녁 학식 보여줘,B-DATE TIME O O
+어제 아침 학식 보여줘,B-DATE TIME O O
+어제 점심 학식 보여줘,B-DATE TIME O O
+어제 저녁 학식 보여줘,B-DATE TIME O O
+내일 아침 학식 보여줘,B-DATE TIME O O
+내일 점심 학식 보여줘,B-DATE TIME O O
+내일 저녁 학식 보여줘,B-DATE TIME O O
+학식 보여주세요,O O
+오늘 학식 보여주세요,B-DATE O O
+내일 학식 보여주세요,B-DATE O O
+어제 학식 보여주세요,B-DATE O O
+오늘 아침 학식 보여주세요,B-DATE TIME O O
+오늘 점심 학식 보여주세요,B-DATE TIME O O
+오늘 저녁 학식 보여주세요,B-DATE TIME O O
+어제 아침 학식 보여주세요,B-DATE TIME O O
+어제 점심 학식 보여주세요,B-DATE TIME O O
+어제 저녁 학식 보여주세요,B-DATE TIME O O
+내일 아침 학식 보여주세요,B-DATE TIME O O
+내일 점심 학식 보여주세요,B-DATE TIME O O
+내일 저녁 학식 보여주세요,B-DATE TIME O O
+학식 알려주라,O O
+오늘 학식 알려주라,B-DATE O O
+내일 학식 알려주라,B-DATE O O
+어제 학식 알려주라,B-DATE O O
+오늘 아침 학식 알려주라,B-DATE TIME O O
+오늘 점심 학식 알려주라,B-DATE TIME O O
+오늘 저녁 학식 알려주라,B-DATE TIME O O
+어제 아침 학식 알려주라,B-DATE TIME O O
+어제 점심 학식 알려주라,B-DATE TIME O O
+어제 저녁 학식 알려주라,B-DATE TIME O O
+내일 아침 학식 알려주라,B-DATE TIME O O
+내일 점심 학식 알려주라,B-DATE TIME O O
+내일 저녁 학식 알려주라,B-DATE TIME O O
+학식 알려줄래,O O
+오늘 학식 알려줄래,B-DATE O O
+내일 학식 알려줄래,B-DATE O O
+어제 학식 알려줄래,B-DATE O O
+오늘 아침 학식 알려줄래,B-DATE TIME O O
+오늘 점심 학식 알려줄래,B-DATE TIME O O
+오늘 저녁 학식 알려줄래,B-DATE TIME O O
+어제 아침 학식 알려줄래,B-DATE TIME O O
+어제 점심 학식 알려줄래,B-DATE TIME O O
+어제 저녁 학식 알려줄래,B-DATE TIME O O
+내일 아침 학식 알려줄래,B-DATE TIME O O
+내일 점심 학식 알려줄래,B-DATE TIME O O
+내일 저녁 학식 알려줄래,B-DATE TIME O O
+어제 아침 메뉴 뭐였어,B-DATE TIME O O
+어제 점심 메뉴 뭐였어,B-DATE TIME O O
+어제 저녁 메뉴 뭐였어,B-DATE TIME O O
+어제 아침 메뉴 뭐였니,B-DATE TIME O O
+어제 점심 메뉴 뭐였니,B-DATE TIME O O
+어제 저녁 메뉴 뭐였니,B-DATE TIME O O
+야 오늘 학식 알려줘,O B-DATE O O
+야 오늘 점심 학식 알려줘,O B-DATE TIME O O
+야 오늘 아침 학식 알려줘,O B-DATE TIME O O
+야 오늘 저녁 학식 알려줘,O B-DATE TIME O O
+야 어제 점심 학식 알려줘,O B-DATE TIME O O
+야 어제 아침 학식 알려줘,O B-DATE TIME O O
+야 어제 저녁 학식 알려줘,O B-DATE TIME O O
+아 배고파,O O
+배고프다,O
+매우 시장하다,O O
+오늘 밥 뭐 나와?,B-DATE O O O
+오늘 점심 뭐 나와?,B-DATE TIME O O
+오늘 아침 뭐 나와?,B-DATE TIME O O
+오늘 저녁 뭐 나와?,B-DATE TIME O O
+어제 점심 뭐 나와?,B-DATE TIME O O
+어제 아침 뭐 나와?,B-DATE TIME O O
+어제 저녁 뭐 나와?,B-DATE TIME O O
+내일 점심 뭐 나와?,B-DATE TIME O O
+내일 아침 뭐 나와?,B-DATE TIME O O
+내일 저녁 뭐 나와?,B-DATE TIME O O
+월요일 점심 뭐나와?,B-DATE TIME O
+화요일 점심 뭐나와?,B-DATE TIME O
+수요일 점심 뭐나와?,B-DATE TIME O
+목요일 점심 뭐나와?,B-DATE TIME O
+금요일 점심 뭐나와?,B-DATE TIME O
+월요일 아침 뭐나와?,B-DATE TIME O
+화요일 아침 뭐나와?,B-DATE TIME O
+수요일 아침 뭐나와?,B-DATE TIME O
+목요일 아침 뭐나와?,B-DATE TIME O
+금요일 아침 뭐나와?,B-DATE TIME O
+월요일 저녁 뭐나와?,B-DATE TIME O
+화요일 저녁 뭐나와?,B-DATE TIME O
+수요일 저녁 뭐나와?,B-DATE TIME O
+목요일 저녁 뭐나와?,B-DATE TIME O
+금요일 저녁 뭐나와?,B-DATE TIME O
+인하대 학식 점심,O O TIME
+인하대 학식 아침,O O TIME
+인하대 학식 저녁,O O TIME
+인하대 저녁 학식,O TIME O
+인하대 아침 학식,O TIME O
+인하대 점심 학식,O TIME O
+인하대 오늘 저녁 학식,O B-DATE TIME O
+인하대 오늘 아침 학식,O B-DATE TIME O
+인하대 오늘 점심 학식,O B-DATE TIME O
+인하대 어제 아침 학식,O B-DATE TIME O
+인하대 어제 점심 학식,O B-DATE TIME O
+인하대 어제 저녁 학식,O B-DATE TIME O
+인하대 내일 아침 학식,O B-DATE TIME O
+인하대 내일 점심 학식,O B-DATE TIME O
+인하대 내일 저녁 학식,O B-DATE TIME O
+인하대 월요일 저녁 학식,O B-DATE TIME O
+인하대 화요일 저녁 학식,O B-DATE TIME O
+인하대 수요일 저녁 학식,O B-DATE TIME O
+인하대 목요일 저녁 학식,O B-DATE TIME O
+인하대 금요일 저녁 학식,O B-DATE TIME O
+인하대 월요일 아침 학식,O B-DATE TIME O
+인하대 화요일 아침 학식,O B-DATE TIME O
+인하대 수요일 아침 학식,O B-DATE TIME O
+인하대 목요일 아침 학식,O B-DATE TIME O
+인하대 금요일 아침 학식,O B-DATE TIME O
+인하대 월요일 점심 학식,O B-DATE TIME O
+인하대 화요일 점심 학식,O B-DATE TIME O
+인하대 수요일 점심 학식,O B-DATE TIME O
+인하대 목요일 점심 학식,O B-DATE TIME O
+인하대 금요일 점심 학식,O B-DATE TIME O
+금요일 점심 학식 말해 줘,B-DATE TIME O O O
+내일 뭐나올까,B-DATE O
+어제 학식은?,B-DATE O
+어제 밥은?,B-DATE O
+월요일 학식이요,B-DATE O
+화요일 학식이요,B-DATE O
+수요일 학식이요,B-DATE O
+금요일 학식이요,B-DATE O
+목요일 학식이요,B-DATE O
+오늘 메뉴는요,B-DATE O
+내일 메뉴는요,B-DATE O
+어제 메뉴는요,B-DATE O
+월요일 메뉴는요,B-DATE O
+화요일 메뉴는요,B-DATE O
+수요일 메뉴는요,B-DATE O
+목요일 메뉴는요,B-DATE O
+금요일 메뉴는요,B-DATE O
+어제의 식사 메뉴,B-DATE O O
+오늘의 식사 메뉴,B-DATE O O
+내일의 식사 메뉴,B-DATE O O
+월요일 식사 메뉴,B-DATE O O
+화요일 식사 메뉴,B-DATE O O
+수요일 식사 메뉴,B-DATE O O
+목요일 식사 메뉴,B-DATE O O
+금요일 식사 메뉴,B-DATE O O
+어제 학식 뭐야?,B-DATE O O
+내일 학식 뭐야?,B-DATE O O
+월요일 학식 알려줘,B-DATE O O
+화요일 학식 알려줘,B-DATE O O
+수요일 학식 알려줘,B-DATE O O
+목요일 학식 알려줘,B-DATE O O
+금요일 학식 알려줘,B-DATE O O
+어제 학식 궁금합니다,B-DATE O O
+내일 학식 궁금합니다,B-DATE O O
+내일 뭐 나올까,B-DATE O O
+내일 학식 뭐예요,B-DATE O O
+내일 학식 먹고싶어,B-DATE O O
+어제 밥 뭐야,B-DATE O O
+어제 밥 뭐야?,B-DATE O O
+어제 밥 뭐 나왔어?,B-DATE O O O
+월요일 학식 알려줄 수 있니,B-DATE O O O O
+화요일 학식 알려줄 수 있니,B-DATE O O O O
+수요일 학식 알려줄 수 있니,B-DATE O O O O
+목요일 학식 알려줄 수 있니,B-DATE O O O O
+금요일 학식 알려줄 수 있니,B-DATE O O O O
+오늘 학식 알려줄 수 있을까,B-DATE O O O O
+어제 학식 알려줄 수 있을까,B-DATE O O O O
+내일 학식 알려줄 수 있을까,B-DATE O O O O
+내일 학식좀요,B-DATE O
+어제 학식좀요,B-DATE O
+오늘 학식좀요,B-DATE O
+월요일 학식좀요,B-DATE O
+화요일 학식좀요,B-DATE O
+수요일 학식좀요,B-DATE O
+목요일 학식좀요,B-DATE O
+금요일 학식좀요,B-DATE O
+내일 학식 뭔데,B-DATE O O
+오늘 학식 뭔데,B-DATE O O
+어제 학식 뭔데,B-DATE O O
+월요일 학식 뭔데,B-DATE O O
+화요일 학식 뭔데,B-DATE O O
+수요일 학식 뭔데,B-DATE O O
+목요일 학식 뭔데,B-DATE O O
+금요일 학식 뭔데,B-DATE O O
+오늘 학식 뭐죠,B-DATE O O
+내일 학식 뭐죠,B-DATE O O
+어제 학식 뭐죠,B-DATE O O
+월요일 학식 뭐죠,B-DATE O O
+화요일 학식 뭐죠,B-DATE O O
+수요일 학식 뭐죠,B-DATE O O
+목요일 학식 뭐죠,B-DATE O O
+금요일 학식 뭐죠,B-DATE O O
+월요일 학식 뭔가요,B-DATE O O
+화요일 학식 뭔가요,B-DATE O O
+수요일 학식 뭔가요,B-DATE O O
+목요일 학식 뭔가요,B-DATE O O
+금요일 학식 뭔가요,B-DATE O O
+오늘 메뉴 뭔가요,B-DATE O O
+어제 메뉴 뭔가요,B-DATE O O
+내일 메뉴 뭔가요,B-DATE O O
+월요일 메뉴 뭔가요,B-DATE O O
+화요일 메뉴 뭔가요,B-DATE O O
+수요일 메뉴 뭔가요,B-DATE O O
+목요일 메뉴 뭔가요,B-DATE O O
+금요일 메뉴 뭔가요,B-DATE O O
+내일 메뉴좀요,B-DATE O
+오늘 메뉴좀요,B-DATE O
+어제 메뉴좀요,B-DATE O
+월요일 메뉴좀요,B-DATE O
+화요일 메뉴좀요,B-DATE O
+수요일 메뉴좀요,B-DATE O
+목요일 메뉴좀요,B-DATE O
+금요일 메뉴좀요,B-DATE O
+오늘 메뉴 뭔데,B-DATE O O
+내일 메뉴 뭔데,B-DATE O O
+어제 메뉴 뭔데,B-DATE O O
+월요일 메뉴 뭔데,B-DATE O O
+화요일 메뉴 뭔데,B-DATE O O
+수요일 메뉴 뭔데,B-DATE O O
+목요일 메뉴 뭔데,B-DATE O O
+금요일 메뉴 뭔데,B-DATE O O
+오늘 메뉴 뭐죠,B-DATE O O
+내일 메뉴 뭐죠,B-DATE O O
+어제 메뉴 뭐였죠,B-DATE O O
+월요일 메뉴 뭐죠,B-DATE O O
+화요일 메뉴 뭐죠,B-DATE O O
+수요일 메뉴 뭐죠,B-DATE O O
+목요일 메뉴 뭐죠,B-DATE O O
+금요일 메뉴 뭐죠,B-DATE O O
+오늘 학식 좀 부탁드려요,B-DATE O O O
+어제 학식 좀 부탁드려요,B-DATE O O O
+내일 학식 좀 부탁드려요,B-DATE O O O
+월요일 학식 좀 부탁드려요,B-DATE O O O
+화요일 학식 좀 부탁드려요,B-DATE O O O
+수요일 학식 좀 부탁드려요,B-DATE O O O
+목요일 학식 좀 부탁드려요,B-DATE O O O
+금요일 학식 좀 부탁드려요,B-DATE O O O
+오늘 학식 좀 부탁드립니다,B-DATE O O O
+내일 학식 좀 부탁드립니다,B-DATE O O O
+어제 학식 좀 부탁드립니다,B-DATE O O O
+월요일 학식 좀 부탁드립니다,B-DATE O O O
+화요일 학식 좀 부탁드립니다,B-DATE O O O
+수요일 학식 좀 부탁드립니다,B-DATE O O O
+목요일 학식 좀 부탁드립니다,B-DATE O O O
+금요일 학식 좀 부탁드립니다,B-DATE O O O
+메뉴 보여줘,O O
+오늘 메뉴 보여줘,B-DATE O O
+내일 메뉴 보여줘,B-DATE O O
+어제 메뉴 보여줘,B-DATE O O
+오늘 아침 메뉴 보여줘,B-DATE TIME O O
+오늘 점심 메뉴 보여줘,B-DATE TIME O O
+오늘 저녁 메뉴 보여줘,B-DATE TIME O O
+어제 아침 메뉴 보여줘,B-DATE TIME O O
+어제 점심 메뉴 보여줘,B-DATE TIME O O
+어제 저녁 메뉴 보여줘,B-DATE TIME O O
+내일 아침 메뉴 보여줘,B-DATE TIME O O
+내일 점심 메뉴 보여줘,B-DATE TIME O O
+내일 저녁 메뉴 보여줘,B-DATE TIME O O
+식단표 보여줘,O O
+오늘 식단표 보여줘,B-DATE O O
+내일 식단표 보여줘,B-DATE O O
+어제 식단표 보여줘,B-DATE O O
+오늘 아침 식단표 보여줘,B-DATE TIME O O
+오늘 점심 식단표 보여줘,B-DATE TIME O O
+오늘 저녁 식단표 보여줘,B-DATE TIME O O
+어제 아침 식단표 보여줘,B-DATE TIME O O
+어제 점심 식단표 보여줘,B-DATE TIME O O
+어제 저녁 식단표 보여줘,B-DATE TIME O O
+내일 아침 식단표 보여줘,B-DATE TIME O O
+내일 점심 식단표 보여줘,B-DATE TIME O O
+내일 저녁 식단표 보여줘,B-DATE TIME O O
+메뉴 알려줘,O O
+오늘 메뉴 알려줘,B-DATE O O
+내일 메뉴 알려줘,B-DATE O O
+어제 메뉴 알려줘,B-DATE O O
+오늘 아침 메뉴 알려줘,B-DATE TIME O O
+오늘 점심 메뉴 알려줘,B-DATE TIME O O
+오늘 저녁 메뉴 알려줘,B-DATE TIME O O
+어제 아침 메뉴 알려줘,B-DATE TIME O O
+어제 점심 메뉴 알려줘,B-DATE TIME O O
+어제 저녁 메뉴 알려줘,B-DATE TIME O O
+내일 아침 메뉴 알려줘,B-DATE TIME O O
+내일 점심 메뉴 알려줘,B-DATE TIME O O
+내일 저녁 메뉴 알려줘,B-DATE TIME O O
+식단표,O
+메뉴,O
+식단,O
+배고프네,O
+오늘 학식 말해줄래,B-DATE O O
+내일 학식 말해줄래,B-DATE O O
+어제 학식 말해줄래,B-DATE O O
+오늘 아침 학식 말해줄래,B-DATE TIME O O
+오늘 점심 학식 말해줄래,B-DATE TIME O O
+오늘 저녁 학식 말해줄래,B-DATE TIME O O
+어제 아침 학식 말해줄래,B-DATE TIME O O
+어제 점심 학식 말해줄래,B-DATE TIME O O
+어제 저녁 학식 말해줄래,B-DATE TIME O O
+내일 아침 학식 말해줄래,B-DATE TIME O O
+내일 점심 학식 말해줄래,B-DATE TIME O O
+내일 저녁 학식 말해줄래,B-DATE TIME O O
+밥이요,O
+학식이요,O
+배고파,O
+학식에 대해,O O
+학식에 대해 말해줘,O O O
+학식에 대해 알려줘,O O O
+아침 말해줘,TIME O
+점심 말해줘,TIME O
+저녁 말해줘,TIME O
+아침 뭐야,TIME O
+점심 뭐야,TIME O
+저녁 뭐야,TIME O
+아침밥 뭐야,TIME O
+점심밥 뭐야,TIME O
+저녁밥 뭐야,TIME O
+아침 뭐나와,TIME O
+점심 뭐나와,TIME O
+저녁 뭐나와,TIME O
+아침 뭐나와?,TIME O
+점심 뭐나와?,TIME O
+저녁 뭐나와?,TIME O
+아침밥 뭐나와?,TIME O
+점심밥 뭐나와?,TIME O
+저녁밥 뭐나와?,TIME O
+아침 뭐 나와,TIME O O
+점심 뭐 나와,TIME O O
+저녁 뭐 나와,TIME O O
+아침 뭐 나와?,TIME O O
+점심 뭐 나와?,TIME O O
+저녁 뭐 나와?,TIME O O
+아침밥 뭐 나와?,TIME O O
+점심밥 뭐 나와?,TIME O O
+저녁밥 뭐 나와?,TIME O O
+오늘 밥 맛있어?,B-DATE O O
+내일 밥 맛있어?,B-DATE O O
+오늘 밥 어때,B-DATE O O
+내일 밥 어때,B-DATE O O
+월요일 밥 어때,B-DATE O O
+화요일 밥 어때,B-DATE O O
+수요일 밥 어때,B-DATE O O
+목요일 밥 어때,B-DATE O O
+금요일 밥 어때,B-DATE O O
+오늘 밥 맛있냐,B-DATE O O
+내일 밥 맛있냐,B-DATE O O
+오늘 학식 맛있어?,B-DATE O O
+내일 학식 맛있어?,B-DATE O O
+오늘 학식 어때,B-DATE O O
+내일 학식 어때,B-DATE O O
+월요일 학식 어때,B-DATE O O
+화요일 학식 어때,B-DATE O O
+수요일 학식 어때,B-DATE O O
+목요일 학식 어때,B-DATE O O
+금요일 학식 어때,B-DATE O O
+오늘 학식 맛있냐,B-DATE O O
+내일 학식 맛있냐,B-DATE O O
+학식 먹을까,O O
+밥 뭐먹지,O O
+학식 뭐먹지,O O
+밥 뭐 먹지,O O O
+학식 뭐 먹지,O O O
+오늘 학식 어때요,B-DATE O O
+내일 학식 어때요,B-DATE O O
+월요일 학식 어때요,B-DATE O O
+화요일 학식 어때요,B-DATE O O
+수요일 학식 어때요,B-DATE O O
+목요일 학식 어때요,B-DATE O O
+금요일 학식 어때요,B-DATE O O
+오늘 학식 어떤가요,B-DATE O O
+내일 학식 어떤가요,B-DATE O O
+월요일 학식 어떤가요,B-DATE O O
+화요일 학식 어떤가요,B-DATE O O
+수요일 학식 어떤가요,B-DATE O O
+목요일 학식 어떤가요,B-DATE O O
+금요일 학식 어떤가요,B-DATE O O
+오늘 학식 무엇인가요,B-DATE O O
+내일 학식 무엇인가요,B-DATE O O
+월요일 학식 무엇인가요,B-DATE O O
+화요일 학식 무엇인가요,B-DATE O O
+수요일 학식 무엇인가요,B-DATE O O
+목요일 학식 무엇인가요,B-DATE O O
+금요일 학식 무엇인가요,B-DATE O O
+학식 먹자,O O
+학식 먹을래,O O
+오늘 맛있는 거 나와?,B-DATE O O O
+내일 맛있는 거 나와?,B-DATE O O O
+오늘은 뭐가 나올까,B-DATE O O
+내일은 뭐가 나올까,B-DATE O O
+오늘 아침은 뭐가 나올까,B-DATE TIME O O
+오늘 점심은 뭐가 나올까,B-DATE TIME O O
+오늘 저녁은 뭐가 나올까,B-DATE TIME O O
+내일 아침은 뭐가 나올까,B-DATE TIME O O
+내일 점심은 뭐가 나올까,B-DATE TIME O O
+내일 저녁은 뭐가 나올까,B-DATE TIME O O
+조식,TIME
+중식,TIME
+석식,TIME
+아침밥,TIME
+점심밥,TIME
+저녁밥,TIME
+금일 아침,B-DATE TIME
+금일 점심,B-DATE TIME
+금일 저녁,B-DATE TIME
+작일 아침,B-DATE TIME
+작일 점심,B-DATE TIME
+작일 저녁,B-DATE TIME
+명일 아침,B-DATE TIME
+명일 점심,B-DATE TIME
+명일 저녁,B-DATE TIME
+금일 아침 뭐야,B-DATE TIME O
+금일 점심 뭐야,B-DATE TIME O
+금일 저녁 뭐야,B-DATE TIME O
+작일 아침 뭐야,B-DATE TIME O
+작일 점심 뭐야,B-DATE TIME O
+작일 저녁 뭐야,B-DATE TIME O
+명일 아침 뭐야,B-DATE TIME O
+명일 점심 뭐야,B-DATE TIME O
+명일 저녁 뭐야,B-DATE TIME O
+금일 조식,B-DATE TIME
+금일 중식,B-DATE TIME
+금일 석식,B-DATE TIME
+작일 조식,B-DATE TIME
+작일 중식,B-DATE TIME
+작일 석식,B-DATE TIME
+명일 조식,B-DATE TIME
+명일 중식,B-DATE TIME
+명일 석식,B-DATE TIME
+작일 아침 뭐였어,B-DATE TIME O
+작일 점심 뭐였어,B-DATE TIME O
+작일 저녁 뭐였어,B-DATE TIME O
+작일 아침 뭐였어?,B-DATE TIME O
+작일 점심 뭐였어?,B-DATE TIME O
+작일 저녁 뭐였어?,B-DATE TIME O
+금일 조식 뭐야,B-DATE TIME O
+금일 중식 뭐야,B-DATE TIME O
+금일 석식 뭐야,B-DATE TIME O
+작일 조식 뭐야,B-DATE TIME O
+작일 중식 뭐야,B-DATE TIME O
+작일 석식 뭐야,B-DATE TIME O
+명일 조식 뭐야,B-DATE TIME O
+명일 중식 뭐야,B-DATE TIME O
+명일 석식 뭐야,B-DATE TIME O
+금일 아침 뭐야?,B-DATE TIME O
+금일 점심 뭐야?,B-DATE TIME O
+금일 저녁 뭐야?,B-DATE TIME O
+작일 아침 뭐야?,B-DATE TIME O
+작일 점심 뭐야?,B-DATE TIME O
+작일 저녁 뭐야?,B-DATE TIME O
+명일 아침 뭐야?,B-DATE TIME O
+명일 점심 뭐야?,B-DATE TIME O
+명일 저녁 뭐야?,B-DATE TIME O
+금일 조식 뭐야?,B-DATE TIME O
+금일 중식 뭐야?,B-DATE TIME O
+금일 석식 뭐야?,B-DATE TIME O
+작일 조식 뭐야?,B-DATE TIME O
+작일 중식 뭐야?,B-DATE TIME O
+작일 석식 뭐야?,B-DATE TIME O
+명일 조식 뭐야?,B-DATE TIME O
+명일 중식 뭐야?,B-DATE TIME O
+명일 석식 뭐야?,B-DATE TIME O
+금일 학식,B-DATE O
+작일 학식,B-DATE O
+명일 학식,B-DATE O
+금일 학식 뭐야,B-DATE O O
+작일 학식 뭐야,B-DATE O O
+명일 학식 뭐야,B-DATE O O
+금일 학식 뭐야?,B-DATE O O
+작일 학식 뭐야?,B-DATE O O
+명일 학식 뭐야?,B-DATE O O
+금일 학식은 뭐야,B-DATE O O
+작일 학식은 뭐야,B-DATE O O
+명일 학식은 뭐야,B-DATE O O
+금일 학식은 뭐야?,B-DATE O O
+작일 학식은 뭐야?,B-DATE O O
+명일 학식은 뭐야?,B-DATE O O
+오늘 학식은 뭐야,B-DATE O O
+어제 학식은 뭐야,B-DATE O O
+내일 학식은 뭐야,B-DATE O O
+어제 학식은 뭐였어,B-DATE O O
+오늘 학식이 뭐야,B-DATE O O
+어제 학식이 뭐야,B-DATE O O
+내일 학식이 뭐야,B-DATE O O
+금일 학식이 뭐야,B-DATE O O
+작일 학식이 뭐야,B-DATE O O
+명일 학식이 뭐야,B-DATE O O
+금일 식단,B-DATE O
+작일 식단,B-DATE O
+명일 식단,B-DATE O
+금일 식단 뭐야,B-DATE O O
+작일 식단 뭐야,B-DATE O O
+명일 식단 뭐야,B-DATE O O
+금일 식단 뭐야?,B-DATE O O
+작일 식단 뭐야?,B-DATE O O
+명일 식단 뭐야?,B-DATE O O
+금일 식단은 뭐야,B-DATE O O
+작일 식단은 뭐야,B-DATE O O
+명일 식단은 뭐야,B-DATE O O
+금일 식단은 뭐야?,B-DATE O O
+작일 식단은 뭐야?,B-DATE O O
+명일 식단은 뭐야?,B-DATE O O
+오늘 식단은 뭐야,B-DATE O O
+어제 식단은 뭐야,B-DATE O O
+내일 식단은 뭐야,B-DATE O O
+어제 식단은 뭐였어,B-DATE O O
+오늘 식단이 뭐야,B-DATE O O
+어제 식단이 뭐야,B-DATE O O
+내일 식단이 뭐야,B-DATE O O
+금일 식단이 뭐야,B-DATE O O
+작일 식단이 뭐야,B-DATE O O
+명일 식단이 뭐야,B-DATE O O
+조식 뭐야,TIME O
+중식 뭐야,TIME O
+석식 뭐야,TIME O
+조식 무엇입니까,TIME O
+중식 무엇입니까,TIME O
+석식 무엇입니까,TIME O
+금일 메뉴는 뭐야,B-DATE TIME O
+작일 메뉴는 뭐야,B-DATE TIME O
+명일 메뉴는 뭐야,B-DATE TIME O
+금일 메뉴는 뭐야?,B-DATE TIME O
+작일 메뉴는 뭐야?,B-DATE TIME O
+명일 메뉴는 뭐야?,B-DATE TIME O
+오늘 메뉴는 뭐야,B-DATE TIME O
+어제 메뉴는 뭐야,B-DATE TIME O
+내일 메뉴는 뭐야,B-DATE TIME O
+어제 메뉴는 뭐였어,B-DATE TIME O
+오늘 메뉴가 뭐야,B-DATE TIME O
+어제 메뉴가 뭐야,B-DATE TIME O
+내일 메뉴가 뭐야,B-DATE TIME O
+금일 메뉴가 뭐야,B-DATE TIME O
+작일 메뉴가 뭐야,B-DATE TIME O
+명일 메뉴가 뭐야,B-DATE TIME O
+금일 조식은?,B-DATE TIME
+금일 중식은?,B-DATE TIME
+금일 석식은?,B-DATE TIME
+작일 조식은?,B-DATE TIME
+작일 중식은?,B-DATE TIME
+작일 석식은?,B-DATE TIME
+명일 조식은?,B-DATE TIME
+명일 중식은?,B-DATE TIME
+명일 석식은?,B-DATE TIME
+금일 조식에 대해,B-DATE TIME O
+금일 중식에 대해,B-DATE TIME O
+금일 석식에 대해,B-DATE TIME O
+작일 조식에 대해,B-DATE TIME O
+작일 중식에 대해,B-DATE TIME O
+작일 석식에 대해,B-DATE TIME O
+명일 조식에 대해,B-DATE TIME O
+명일 중식에 대해,B-DATE TIME O
+명일 석식에 대해,B-DATE TIME O
+금일 조식을 알려줘,B-DATE TIME O
+금일 중식을 알려줘,B-DATE TIME O
+금일 석식을 알려줘,B-DATE TIME O
+작일 조식을 알려줘,B-DATE TIME O
+작일 중식을 알려줘,B-DATE TIME O
+작일 석식을 알려줘,B-DATE TIME O
+명일 조식을 알려줘,B-DATE TIME O
+명일 중식을 알려줘,B-DATE TIME O
+명일 석식을 알려줘,B-DATE TIME O
+조식은 무엇입니까,TIME O
+중식은 무엇입니까,TIME O
+석식은 무엇입니까,TIME O
+오늘 조식,B-DATE TIME
+오늘 중식,B-DATE TIME
+오늘 석식,B-DATE TIME
+어제 조식,B-DATE TIME
+어제 중식,B-DATE TIME
+어제 석식,B-DATE TIME
+내일 조식,B-DATE TIME
+내일 중식,B-DATE TIME
+내일 석식,B-DATE TIME
+월요일 조식,B-DATE TIME
+월요일 중식,B-DATE TIME
+월요일 석식,B-DATE TIME
+화요일 조식,B-DATE TIME
+화요일 중식,B-DATE TIME
+화요일 석식,B-DATE TIME
+수요일 조식,B-DATE TIME
+수요일 중식,B-DATE TIME
+수요일 석식,B-DATE TIME
+목요일 조식,B-DATE TIME
+목요일 중식,B-DATE TIME
+목요일 석식,B-DATE TIME
+금요일 조식,B-DATE TIME
+금요일 중식,B-DATE TIME
+금요일 석식,B-DATE TIME
+금일 조식 뭐예요,B-DATE TIME O
+금일 중식 뭐예요,B-DATE TIME O
+금일 석식 뭐예요,B-DATE TIME O
+작일 조식 뭐예요,B-DATE TIME O
+작일 중식 뭐예요,B-DATE TIME O
+작일 석식 뭐예요,B-DATE TIME O
+명일 조식 뭐예요,B-DATE TIME O
+명일 중식 뭐예요,B-DATE TIME O
+명일 석식 뭐예요,B-DATE TIME O
+오늘 조식 뭐예요,B-DATE TIME O
+오늘 중식 뭐예요,B-DATE TIME O
+오늘 석식 뭐예요,B-DATE TIME O
+어제 조식 뭐예요,B-DATE TIME O
+어제 중식 뭐예요,B-DATE TIME O
+어제 석식 뭐예요,B-DATE TIME O
+내일 조식 뭐예요,B-DATE TIME O
+내일 중식 뭐예요,B-DATE TIME O
+내일 석식 뭐예요,B-DATE TIME O
+명일 뭐나와,B-DATE O
+금일 뭐나와,B-DATE O
+작일 뭐나왔어,B-DATE O
+금일 학식은?,B-DATE O
+명일 학식은?,B-DATE O
+작일 학식은?,B-DATE O
+금일 메뉴,B-DATE O
+작일 메뉴,B-DATE O
+명일 메뉴,B-DATE O
+금일의 학식,B-DATE O
+명일의 학식,B-DATE O
+작일의 학식,B-DATE O
+금일의 메뉴,B-DATE O
+명일의 메뉴,B-DATE O
+작일의 메뉴,B-DATE O
+금일 밥은?,B-DATE O
+작일 밥은?,B-DATE O
+명일 밥은?,B-DATE O
+금일 학식이요,B-DATE O
+명일 학식이요,B-DATE O
+작일 학식이요,B-DATE O
+금일 밥,B-DATE O
+명일 밥,B-DATE O
+작일 밥,B-DATE O
+내일 식단,B-DATE O
+어제 식단,B-DATE O
+오늘 식단,B-DATE O
+금일 메뉴는요,B-DATE O
+작일 메뉴는요,B-DATE O
+명일 메뉴는요,B-DATE O
+금일 학식좀요,B-DATE O
+명일 학식좀요,B-DATE O
+작일 학식좀요,B-DATE O
+금일 메뉴좀요,B-DATE O
+작일 메뉴좀요,B-DATE O
+명일 메뉴좀요,B-DATE O
+금일 학식 메뉴,B-DATE O O
+명일 학식 메뉴,B-DATE O O
+작일 학식 메뉴,B-DATE O O
+월요일 학식 메뉴,B-DATE O O
+화요일 학식 메뉴,B-DATE O O
+수요일 학식 메뉴,B-DATE O O
+목요일 학식 메뉴,B-DATE O O
+금요일 학식 메뉴,B-DATE O O
+금일 학식 뭐예요,B-DATE O O
+어제 학식 뭐예요,B-DATE O O
+명일 학식 뭐예요,B-DATE O O
+작일 학식 뭐예요,B-DATE O O
+금일 뭐 나와,B-DATE O O
+명일 뭐 나와,B-DATE O O
+작일 뭐 나와,B-DATE O O
+월요일 뭐 나와,B-DATE O O
+화요일 뭐 나와,B-DATE O O
+수요일 뭐 나와,B-DATE O O
+목요일 뭐 나와,B-DATE O O
+금요일 뭐 나와,B-DATE O O
+금일 뭐 나올까,B-DATE O O
+어제 뭐 나왔을까,B-DATE O O
+작일 뭐 나왔을까,B-DATE O O
+월요일에 뭐 나올까,B-DATE O O
+화요일에 뭐 나올까,B-DATE O O
+수요일에 뭐 나올까,B-DATE O O
+목요일에 뭐 나올까,B-DATE O O
+금요일에 뭐 나올까,B-DATE O O
+금일 뭐 나오니,B-DATE O O
+명일 뭐 나오니,B-DATE O O
+작일 뭐 나왔니,B-DATE O O
+어제 뭐 나왔니,B-DATE O O
+월요일 뭐 나오니,B-DATE O O
+화요일 뭐 나오니,B-DATE O O
+수요일 뭐 나오니,B-DATE O O
+목요일 뭐 나오니,B-DATE O O
+금요일 뭐 나오니,B-DATE O O
+월요일 뭐 나왔니,B-DATE O O
+화요일 뭐 나왔니,B-DATE O O
+수요일 뭐 나왔니,B-DATE O O
+목요일 뭐 나왔니,B-DATE O O
+금요일 뭐 나왔니,B-DATE O O
+작일 뭐 나왔어,B-DATE O O
+월요일 뭐 나왔어,B-DATE O O
+화요일 뭐 나왔어,B-DATE O O
+수요일 뭐 나왔어,B-DATE O O
+목요일 뭐 나왔어,B-DATE O O
+금요일 뭐 나왔어,B-DATE O O
+금일 학식 말해줘,B-DATE O O
+명일 학식 말해줘,B-DATE O O
+작일 학식 말해줘,B-DATE O O
+월요일 학식 말해줘,B-DATE O O
+화요일 학식 말해줘,B-DATE O O
+수요일 학식 말해줘,B-DATE O O
+목요일 학식 말해줘,B-DATE O O
+금요일 학식 말해줘,B-DATE O O
+금일 학식 뭐니,B-DATE O O
+명일 학식 뭐니,B-DATE O O
+작일 학식 뭐니,B-DATE O O
+월요일 학식 뭐니,B-DATE O O
+화요일 학식 뭐니,B-DATE O O
+수요일 학식 뭐니,B-DATE O O
+목요일 학식 뭐니,B-DATE O O
+금요일 학식 뭐니,B-DATE O O
+금일 학식 먹고싶어,B-DATE O O
+명일 학식 먹고싶어,B-DATE O O
+금일 밥 뭐야,B-DATE O O
+명일 밥 뭐야,B-DATE O O
+작일 밥 뭐였어,B-DATE O O
+작일 밥 뭐였니,B-DATE O O
+월요일 밥 뭐였어,B-DATE O O
+화요일 밥 뭐였어,B-DATE O O
+수요일 밥 뭐였어,B-DATE O O
+목요일 밥 뭐였어,B-DATE O O
+금요일 밥 뭐였어,B-DATE O O
+월요일 밥 뭐였니,B-DATE O O
+화요일 밥 뭐였니,B-DATE O O
+수요일 밥 뭐였니,B-DATE O O
+목요일 밥 뭐였니,B-DATE O O
+금요일 밥 뭐였니,B-DATE O O
+오늘 밥 뭐예요,B-DATE O O
+금일 밥 뭐예요,B-DATE O O
+내일 밥 뭐예요,B-DATE O O
+명일 밥 뭐예요,B-DATE O O
+작일 밥 뭐예요,B-DATE O O
+어제 밥 뭐예요,B-DATE O O
+금일 학식 말해주세요,B-DATE O O
+작일 학식 말해주세요,B-DATE O O
+명일 학식 말해주세요,B-DATE O O
+월요일 학식 말해주세요,B-DATE O O
+화요일 학식 말해주세요,B-DATE O O
+수요일 학식 말해주세요,B-DATE O O
+목요일 학식 말해주세요,B-DATE O O
+금요일 학식 말해주세요,B-DATE O O
+금일 학식 뭔가요,B-DATE O O
+작일 학식 뭔가요,B-DATE O O
+명일 학식 뭔가요,B-DATE O O
+금일 밥 뭔가요,B-DATE O O
+작일 밥 뭔가요,B-DATE O O
+명일 밥 뭔가요,B-DATE O O
+월요일 밥 뭔가요,B-DATE O O
+화요일 밥 뭔가요,B-DATE O O
+수요일 밥 뭔가요,B-DATE O O
+목요일 밥 뭔가요,B-DATE O O
+금요일 밥 뭔가요,B-DATE O O
+금일 학식 보여줘,B-DATE O O
+명일 학식 보여줘,B-DATE O O
+작일 학식 보여줘,B-DATE O O
+월요일 학식 보여줘,B-DATE O O
+화요일 학식 보여줘,B-DATE O O
+수요일 학식 보여줘,B-DATE O O
+목요일 학식 보여줘,B-DATE O O
+금요일 학식 보여줘,B-DATE O O
+금일 학식 보여주세요,B-DATE O O
+명일 학식 보여주세요,B-DATE O O
+작일 학식 보여주세요,B-DATE O O
+월요일 학식 보여주세요,B-DATE O O
+화요일 학식 보여주세요,B-DATE O O
+수요일 학식 보여주세요,B-DATE O O
+목요일 학식 보여주세요,B-DATE O O
+금요일 학식 보여주세요,B-DATE O O
+금일 학식 알려줄래,B-DATE O O
+명일 학식 알려줄래,B-DATE O O
+작일 학식 알려줄래,B-DATE O O
+월요일 학식 알려줄래,B-DATE O O
+화요일 학식 알려줄래,B-DATE O O
+수요일 학식 알려줄래,B-DATE O O
+목요일 학식 알려줄래,B-DATE O O
+금요일 학식 알려줄래,B-DATE O O
+금일 학식 알려주라,B-DATE O O
+명일 학식 알려주라,B-DATE O O
+작일 학식 알려주라,B-DATE O O
+월요일 학식 알려주라,B-DATE O O
+화요일 학식 알려주라,B-DATE O O
+수요일 학식 알려주라,B-DATE O O
+목요일 학식 알려주라,B-DATE O O
+금요일 학식 알려주라,B-DATE O O
+금일의 식사 메뉴,B-DATE O O
+작일의 식사 메뉴,B-DATE O O
+명일의 식사 메뉴,B-DATE O O
+금일 학식 알려줘,B-DATE O O
+명일 학식 알려줘,B-DATE O O
+작일 학식 알려줘,B-DATE O O
+작일 학식 궁금합니다,B-DATE O O
+명일 학식 궁금합니다,B-DATE O O
+금일 학식 궁금합니다,B-DATE O O
+명일 뭐 나올까,B-DATE O O
+작일 밥 뭐야,B-DATE O O
+금일 학식 뭔데,B-DATE O O
+명일 학식 뭔데,B-DATE O O
+작일 학식 뭔데,B-DATE O O
+금일 학식 뭐죠,B-DATE O O
+명일 학식 뭐죠,B-DATE O O
+작일 학식 뭐죠,B-DATE O O
+금일 메뉴 뭔가요,B-DATE O O
+작일 메뉴 뭔가요,B-DATE O O
+명일 메뉴 뭔가요,B-DATE O O
+금일 메뉴 뭔데,B-DATE O O
+작일 메뉴 뭔데,B-DATE O O
+명일 메뉴 뭔데,B-DATE O O
+금일 메뉴 뭐죠,B-DATE O O
+명일 메뉴 뭐죠,B-DATE O O
+작일 메뉴 뭐였죠,B-DATE O O
+금일 메뉴 보여줘,B-DATE O O
+작일 메뉴 보여줘,B-DATE O O
+명일 메뉴 보여줘,B-DATE O O
+월요일 메뉴 보여줘,B-DATE O O
+화요일 메뉴 보여줘,B-DATE O O
+수요일 메뉴 보여줘,B-DATE O O
+목요일 메뉴 보여줘,B-DATE O O
+금요일 메뉴 보여줘,B-DATE O O
+금일 학식 말해줄래,B-DATE O O
+명일 학식 말해줄래,B-DATE O O
+작일 학식 말해줄래,B-DATE O O
+월요일 학식 말해줄래,B-DATE O O
+화요일 학식 말해줄래,B-DATE O O
+수요일 학식 말해줄래,B-DATE O O
+목요일 학식 말해줄래,B-DATE O O
+금요일 학식 말해줄래,B-DATE O O
